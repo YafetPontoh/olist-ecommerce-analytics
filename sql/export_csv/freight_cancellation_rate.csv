@@ -1,0 +1,4 @@
+freight_category,total_orders,total_cancelled,cancellation_rate_pct
+"Ongkir Murah",15705,124,0.79
+"Ongkir Lumayan",39008,167,0.43
+"Ongkir Mahal",43953,170,0.39
