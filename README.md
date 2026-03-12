@@ -1,4 +1,4 @@
-<img width="736" height="454" alt="image" src="https://github.com/user-attachments/assets/f31b997c-c112-4169-989c-28dfe277741c" /># 📊 Olist E-Commerce Analytics: Driving Growth through Data
+# Olist E-Commerce Analytics: Driving Growth through Data
 
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL%2FMySQL-blue)
 ![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-e97627)
